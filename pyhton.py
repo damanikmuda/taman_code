@@ -1,3 +1,6 @@
-print ("coba pull ini di python")
-print ("ini kali kedua coba push code dari git")
-print ("tambah 1 lagi")
+x = 5 
+z = 5 + x
+print ("nilai Z adalah",(z))
+
+
+
