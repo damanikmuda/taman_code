@@ -1,4 +1,6 @@
-#Ini adalah komentar
+import sysconfig
+
+# Ini adalah komentar
 # Tulisan ini tidak akan dieksekusi
 
 #komentar dengan tanda pagar hanya bisa digunakan

@@ -18,14 +18,14 @@ print(9J)
 print(5j)
 
 #tipe data List
-print([1,2,3,4,5])
+print([1,2,3,4,5])  #datalist ([])
 print(["satu", "dua", "tiga"])
 
 #tipe data Tuple
-print((1,2,3,4,5))
+print((1,2,3,4,5)) #tuple (())
 print(("satu", "dua", "tiga"))
 
-#tipe data Dictionary
+#tipe data Dictionary #DICTIONARY ({})
 print({"nama":"Budi", 'umur':20})
 #tipe data Dictionary dimasukan ke dalam variabel biodata
 biodata = {"nama":"Andi", 'umur':21} #proses inisialisasi variabel biodata
