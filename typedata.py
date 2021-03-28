@@ -12,20 +12,20 @@ print(20)
 print(3.14)
 
 #tipe data Hexadecimal
-print(9J)
+print(9a)
 
 #tipe data Complex
 print(5j)
 
 #tipe data List
-print([1,2,3,4,5])  #datalist ([])
+print([1,2,3,4,5])
 print(["satu", "dua", "tiga"])
 
 #tipe data Tuple
-print((1,2,3,4,5)) #tuple (())
+print((1,2,3,4,5))
 print(("satu", "dua", "tiga"))
 
-#tipe data Dictionary #DICTIONARY ({})
+#tipe data Dictionary
 print({"nama":"Budi", 'umur':20})
 #tipe data Dictionary dimasukan ke dalam variabel biodata
 biodata = {"nama":"Andi", 'umur':21} #proses inisialisasi variabel biodata
